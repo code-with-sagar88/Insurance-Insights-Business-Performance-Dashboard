@@ -39,7 +39,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Assets Under Management by Stakeholder  
 - Shareholding Distribution  
 
-![Business & Financial Performance Dashboard](dashboards/dashboard1.png)
+![Business Performance Dashboard](dashboard2.png)
 
 ---
 
