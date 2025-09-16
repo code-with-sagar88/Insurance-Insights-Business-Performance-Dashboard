@@ -28,7 +28,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Profitability by City and Tenure  
 - Cost Ratio vs Profitability  
 
-[![Business & Financial Performance Dashboard](dashboards/dashboard1.png)](dashboards/dashboard1.png)  
+![Business & Financial Performance Dashboard](dashboards/dashboard1.png) 
 
 ---
 
@@ -39,7 +39,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Assets Under Management by Stakeholder  
 - Shareholding Distribution  
 
-[![Business Performance Dashboard](dashboards/dashboard2.png)](dashboards/dashboard2.png)  
+![Business Performance Dashboard](dashboards/dashboard2.png) 
 
 ---
 
