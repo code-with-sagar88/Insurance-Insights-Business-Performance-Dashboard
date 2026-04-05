@@ -69,7 +69,7 @@ Insurance-Insights-Business-Performance-Dashboard/
 - Assets Under Management by Stakeholder  
 - Shareholding Distribution  
 
-![Business Performance Dashboard](dashboards/dashboard2.png)
+![Business Performance Dashboard](dashboard2.png)
 
 ---
 
