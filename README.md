@@ -51,7 +51,7 @@ Insurance-Insights-Business-Performance-Dashboard/
 - Profitability by City and Tenure  
 - Cost Ratio vs Profitability  
 
-![Business & Financial Performance Dashboard](./dashboards/dashboard1.png)
+![Business & Financial Performance Dashboard](dashboard1.png)
 
 ---
 
