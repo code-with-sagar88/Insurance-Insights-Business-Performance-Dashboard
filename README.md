@@ -1,6 +1,11 @@
 # 📊 Insurance Insights & Business Performance Dashboard  
 
 A Tableau project by *Sagar Dabhade* showcasing interactive dashboards for analyzing *insurance business performance* and generating valuable insights.  
+---
+
+## 🎯 Business Problem  
+Insurance companies need to monitor premiums, claims, and profitability across cities and insurers.  
+This project helps stakeholders analyze business performance and identify growth opportunities using interactive dashboards.
 
 ---
 
